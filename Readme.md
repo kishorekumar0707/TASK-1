@@ -10,3 +10,4 @@ This one has two activities:
 2. Creating a blog about the objects and its internal representation in Javascript
     - Link for the blog [CLICK HERE] (https://medium.com/@kishorekumar07070/understanding-objects-and-their-internal-representation-in-javascript-ee794c3d26d9)
     - In the about blog we discussed about objects and its internal representation in Javascript
+Thanks for spending time on evaluating this task, awaiting for your valuable feedback 
